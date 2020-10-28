@@ -1,0 +1,59 @@
+- Row: 1
+  mode: CC
+  bankcode: CC
+  Comment: Payment through mast/visa credit card
+
+- Row: 2
+  mode: DC
+  bankcode: VISA
+  Comment: Payment through visa debit card
+
+- Row: 3
+  mode: DC
+  bankcode: RUPAY
+  Comment: Payment through rupay debit card
+
+- Row: 4
+  mode: CC
+  bankcode: MASTCC
+  Comment: Payment through mast credit card
+
+- Row: 5
+  mode: DC
+  bankcode: MAST S3
+  Comment: Payment through mast debit card
+
+- Row: 6
+  mode: DC
+  bankcode: CITD
+  Comment: Payment through citi mast debit card
+
+- Row: 7
+  mode: CC
+  bankcode: AMEX
+  Comment: Payment through amex credit card
+
+- Row: 8
+  mode: CC
+  bankcode: ABCD
+  Comment: Payment through invalid ibibo code
+
+- Row: 9
+  mode: ABC
+  bankcode: CC
+  Comment: Payment through invalid PG
+
+- Row: 10
+  mode: CC
+  bankcode: RUPAYCC
+  Comment: Payment through rupay debit card
+
+- Row: 11
+  mode: CC
+  bankcode: RUPAY S1 1
+  Comment: Payment through rupay debit card
+
+- Row: 12
+  mode: CC
+  bankcode: RUPAYCC S1 2
+  Comment: Payment through rupay debit card
