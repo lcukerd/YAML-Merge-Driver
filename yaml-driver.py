@@ -72,4 +72,4 @@ def write_file(out, path):
 
 files = open_files(sys.argv[1:])
 out = read_files(files[0], files[1], files[2])
-write_file(out, 'gen.yaml')
+write_file(out, sys.argv[1])
